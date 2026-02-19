@@ -11,7 +11,6 @@ Original file is located at
 # RetailMax - Predictor de Ventas (Streamlit App)
 # ==========================================================
 
-!pip install streamlit
 
 import streamlit as st
 import pandas as pd
